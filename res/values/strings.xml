@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HashTagSwoop</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_message">Shake me to get the closest trending cities near you.</string>
+    <string name="shake_it_shake_it_">Shake it shake it! (one more time)</string>
+
+</resources>
